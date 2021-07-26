@@ -30,6 +30,7 @@ public class MainActivity2 extends AppCompatActivity {
 
         settingList();
 
+
         arraylist = new ArrayList<String>();
         arraylist.addAll(list);
 
@@ -84,5 +85,6 @@ public class MainActivity2 extends AppCompatActivity {
         list.add("일진하이솔루스(유가) - 2021.08.11~2021.08.12");
         list.add("바이젠셀 - 2021.08.12~2021.08.13");
         list.add("IBKS스팩 16호 - 2021.08.23~2021.08.24");
+        list.add("a");
     }
 }
